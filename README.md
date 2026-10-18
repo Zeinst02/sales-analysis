@@ -1,6 +1,9 @@
 # Superstore Sales Analysis
 
-Data analysis project using Python (pandas, NumPy, Matplotlib) on the Superstore sales dataset (9,994 rows, 21 columns).
+**Live demo:** https://sales-analysis-dk92aqhg2erba6kforfjo6.streamlit.app/
+
+
+Data analysis project using Python (pandas, NumPy, Matplotlib, Streamlit) on the Superstore sales dataset (9,994 rows, 21 columns), with an interactive dashboard.
 
 ## Data Cleaning
 - Checked for missing values and duplicate rows (none found)
@@ -31,4 +34,4 @@ Note: these are patterns in the data; the dataset does not explain the reasons b
 ![Central discount comparison](central_discount_comparison.png)
 
 ## Tools
-Python, pandas, NumPy, Matplotlib, PyCharm,NumPy
+Python, pandas, NumPy, Matplotlib, Streamlit, PyCharm
