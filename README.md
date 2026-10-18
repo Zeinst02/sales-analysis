@@ -29,6 +29,7 @@ Note: these are patterns in the data; the dataset does not explain the reasons b
 
 
 ## Charts
+![Dashboard](dashboard.png)
 ![Tables profit by discount](tables_profit_by_discount.png)
 ![Monthly sales trend](monthly_sales_trend.png)
 ![Central discount comparison](central_discount_comparison.png)
